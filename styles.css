@@ -1,1 +1,37 @@
 /* your code here */
+body {
+  background-color: black;
+  color: white;
+  margin: 0;
+}
+.top {
+  display: flex;
+
+  justify-content: space-between;
+  align-items: center;
+}
+.logo-details {
+  padding-left: 20px;
+  font-size: 50px;
+}
+img {
+  height: 50px;
+}
+.link-boxes {
+  display: flex;
+  justify-content: space-between;
+  padding: 50px 10px 20px 10px;
+}
+.box-head {
+  font-size: 20px;
+  text-decoration: underline;
+}
+.bottom-details {
+	position: fixed;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: #2c303a;
+  bottom: 0;
+}
