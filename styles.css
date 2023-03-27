@@ -41,5 +41,7 @@ img {
 	gap:5px;
 }
 .media-icons a{
-	
+	display:flex;
+	justify-content:space-between;
+	gap:5px;
 }
