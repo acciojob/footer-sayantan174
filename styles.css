@@ -35,3 +35,8 @@ img {
   background-color: #2c303a;
   bottom: 0;
 }
+.media-icons{
+	display:flex;
+	justify-content:space-between;
+	gap:5px;
+}
